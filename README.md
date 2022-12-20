@@ -11,6 +11,9 @@ Tha idea is payment with the pix first, and rest of the value on credit card
 
 
 ## Software Architecture
+![payment](https://user-images.githubusercontent.com/13812512/208728015-6bbfb6bd-2781-422e-8f5d-58a18ccfeb60.png)
+
+
 
 ### **Architecture Explanation**
 
